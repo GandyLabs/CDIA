@@ -2,4 +2,4 @@
 
 print_r($_SERVER);
 
-// EOF
+// End of file
